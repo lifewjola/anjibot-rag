@@ -1,0 +1,1281 @@
+{
+    "id": [
+        "course_GEDS 101_0",
+        "course_GEDS 105_1",
+        "course_GEDS 107_2",
+        "course_GEDS 112_3",
+        "course_GEDS 126_4",
+        "course_GEDS 131_5",
+        "course_GEDS 132_6",
+        "course_GEDS 134_7",
+        "course_COSC 111_8",
+        "course_COSC 112_9",
+        "course_MATH 101_10",
+        "course_MATH 102_11",
+        "course_PHYS 101_12",
+        "course_PHYS 102_13",
+        "course_CHEM 101_14",
+        "course_STAT 101_15",
+        "course_MATH 104_16",
+        "course_COSC 107_17",
+        "course_COSC 108_18",
+        "course_GEDS 215_19",
+        "course_GEDS 221_20",
+        "course_GEDS 200_21",
+        "course_GEDS 222_22",
+        "course_GEDS 260_23",
+        "course_GEDS 270_24",
+        "course_COSC 203_25",
+        "course_COSC 205_26",
+        "course_COSC 206_27",
+        "course_COSC 212_28",
+        "course_COSC 226_29",
+        "course_MATH 203_30",
+        "course_MATH 206_31",
+        "course_STAT 201_32",
+        "course_STAT 202_33",
+        "course_COSC 209_34",
+        "course_COSC 222_35",
+        "course_GEDS 312_36",
+        "course_GEDS 317_37",
+        "course_GEDS 280_38",
+        "course_COSC 302_39",
+        "course_COSC 303_40",
+        "course_COSC 306_41",
+        "course_COSC 309_42",
+        "course_COSC 312_43",
+        "course_COSC 317_44",
+        "course_COSC 325_45",
+        "course_COSC 327_46",
+        "course_COSC 335_47",
+        "course_ITGY 307_48",
+        "course_COSC 305_49",
+        "course_COSC 328_50",
+        "lecturer_GEDS 001/GEDS 002_0",
+        "lecturer_GEDS 101_1",
+        "lecturer_GEDS 105_2",
+        "lecturer_GEDS 107_3",
+        "lecturer_GEDS 112_4",
+        "lecturer_GEDS 126_5",
+        "lecturer_GEDS 131_6",
+        "lecturer_GEDS 132_7",
+        "lecturer_GEDS 134_8",
+        "lecturer_COSC 111_9",
+        "lecturer_COSC 112_10",
+        "lecturer_MATH 101_11",
+        "lecturer_MATH 102_12",
+        "lecturer_PHYS 101_13",
+        "lecturer_PHYS 102_14",
+        "lecturer_CHEM 101_15",
+        "lecturer_STAT 101_16",
+        "lecturer_MATH 104_17",
+        "lecturer_COSC 107_18",
+        "lecturer_COSC 108_19",
+        "lecturer_GEDS 215_20",
+        "lecturer_GEDS 221_21",
+        "lecturer_GEDS 200_22",
+        "lecturer_GEDS 222_23",
+        "lecturer_GEDS 260_24",
+        "lecturer_GEDS 270_25",
+        "lecturer_COSC 203_26",
+        "lecturer_COSC 205_27",
+        "lecturer_COSC 206_28",
+        "lecturer_COSC 212_29",
+        "lecturer_COSC 226_30",
+        "lecturer_MATH 203_31",
+        "lecturer_MATH 206_32",
+        "lecturer_STAT 201_33",
+        "lecturer_STAT 202_34",
+        "lecturer_COSC 209_35",
+        "lecturer_COSC 222_36",
+        "lecturer_GEDS 312_37",
+        "lecturer_GEDS 317_38",
+        "lecturer_GEDS 280_39",
+        "lecturer_COSC 302_40",
+        "lecturer_COSC 303_41",
+        "lecturer_COSC 306_42",
+        "lecturer_COSC 309_43",
+        "lecturer_COSC 312_44",
+        "lecturer_COSC 317_45",
+        "lecturer_COSC 325_46",
+        "lecturer_COSC 327_47",
+        "lecturer_COSC 335_48",
+        "lecturer_COSC 360_49",
+        "lecturer_ITGY 307_50",
+        "lecturer_COSC 305_51",
+        "lecturer_COSC 328_52",
+        "lecturer_GEDS 400_53",
+        "lecturer_COSC 401_54",
+        "lecturer_COSC 423_55",
+        "lecturer_COSC 333_56",
+        "lecturer_COSC 425_57",
+        "lecturer_ITGY 401_58",
+        "lecturer_SENG 400_59",
+        "lecturer_ITGY 417_60",
+        "lecturer_ITGY 400_61",
+        "lecturer_COSC 427_62",
+        "lecturer_COSC 409_63",
+        "qa_0",
+        "qa_1",
+        "qa_2",
+        "qa_3",
+        "qa_4",
+        "qa_5",
+        "qa_6",
+        "qa_7",
+        "qa_8",
+        "qa_9",
+        "qa_10",
+        "qa_11",
+        "qa_12",
+        "qa_13",
+        "qa_14",
+        "qa_15",
+        "qa_16",
+        "qa_17",
+        "qa_18",
+        "qa_19",
+        "qa_20",
+        "qa_21",
+        "qa_22",
+        "qa_23",
+        "qa_24",
+        "qa_25",
+        "qa_26",
+        "qa_27",
+        "qa_28",
+        "qa_29",
+        "qa_30",
+        "qa_31",
+        "qa_32",
+        "qa_33",
+        "qa_34",
+        "qa_35",
+        "qa_36",
+        "qa_37",
+        "qa_38",
+        "qa_39",
+        "qa_40",
+        "qa_41",
+        "qa_42",
+        "qa_43",
+        "qa_44",
+        "qa_45",
+        "qa_46",
+        "qa_47",
+        "qa_48",
+        "qa_49",
+        "qa_50",
+        "qa_51",
+        "qa_52",
+        "qa_53",
+        "qa_54",
+        "qa_55",
+        "qa_56",
+        "qa_57",
+        "qa_58",
+        "qa_59",
+        "qa_60",
+        "qa_61",
+        "qa_62",
+        "qa_63",
+        "qa_64",
+        "qa_65",
+        "qa_66",
+        "qa_67",
+        "qa_68",
+        "qa_69",
+        "qa_70",
+        "qa_71",
+        "qa_72",
+        "qa_73",
+        "qa_74",
+        "qa_75",
+        "qa_76",
+        "qa_77",
+        "qa_78",
+        "qa_79",
+        "qa_80",
+        "qa_81",
+        "qa_82",
+        "qa_83",
+        "qa_84",
+        "qa_85",
+        "qa_86",
+        "qa_87",
+        "qa_88",
+        "qa_89",
+        "qa_90",
+        "qa_91",
+        "qa_92",
+        "qa_93",
+        "qa_94",
+        "qa_95",
+        "qa_96",
+        "qa_97",
+        "qa_98",
+        "qa_99",
+        "qa_100",
+        "qa_101",
+        "qa_102",
+        "qa_103",
+        "qa_104",
+        "qa_105",
+        "qa_106",
+        "qa_107",
+        "qa_108",
+        "qa_109",
+        "qa_110",
+        "qa_111",
+        "qa_112",
+        "qa_113",
+        "qa_114",
+        "qa_115",
+        "qa_116",
+        "qa_117",
+        "qa_118",
+        "qa_119",
+        "qa_120",
+        "qa_121",
+        "qa_122",
+        "qa_123",
+        "qa_124",
+        "qa_125",
+        "qa_126",
+        "qa_127",
+        "qa_128",
+        "qa_129",
+        "qa_130",
+        "qa_131",
+        "qa_132",
+        "qa_133",
+        "qa_134",
+        "qa_135",
+        "qa_136",
+        "qa_137",
+        "qa_138",
+        "qa_139"
+    ],
+    "metadata": [
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Philosophy of Christian Education (GEDS 101), go to this link: https://drive.google.com/drive/folders/1vOYYKqqQado2MzTwqIxvIc4HddJcSN_5?usp=drive_link for past questions, Unavailable for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Use of Library and study skills (GEDS 105), go to this link:  for past questions, Unavailable for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Introduction to General Psychology (GEDS 107), go to this link: Unavailable for past questions, Unavailable for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Health Principles (GEDS 112), go to this link: Unavailable for past questions, https://app.studysmarter.de/studyset/9602095?ref=ARDC2UwPjSKGUYymd3BeXWDXHOjIj00e for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Life and Teachings of Jesus the Messiah (GEDS 126), go to this link: Unavailable for past questions, https://app.studysmarter.de/studyset/9694605?ref=ARDC2UwPjSKGUYymd3BeXWDXHOjIj00e for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Communication in English I (GEDS 131), go to this link: Unavailable for past questions, Unavailable for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Communication in English  II (GEDS 132), go to this link: Unavailable for past questions, Unavailable for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Nigerian People in a Global Culture. (GEDS 134), go to this link: Unavailable for past questions, https://app.studysmarter.de/studyset/9770720?ref=ARDC2UwPjSKGUYymd3BeXWDXHOjIj00e for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Introduction to Computer Science and Programming I (COSC 111), go to this link: https://drive.google.com/drive/folders/1cC7fZizerm23TYmRyzR5qGqwv5PA1Xr9?usp=drive_link for past questions, Unavailable for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Introduction to Computer Science and Programming II (COSC 112), go to this link: https://drive.google.com/drive/folders/1g6O1CCxFZzILKlzy_Civ0NEq9WAV9UTK?usp=drive_link for past questions, https://app.studysmarter.de/studyset/9455397?ref=ARDC2UwPjSKGUYymd3BeXWDXHOjIj00e for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course General Mathematics I (MATH 101), go to this link: https://drive.google.com/drive/folders/13VS5ZASflVcph-9uPkv_HrL-o8J17D9i?usp=drive_link for past questions, Unavailable for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course General Mathematics II (MATH 102), go to this link: https://drive.google.com/drive/folders/18pPTYthfZ7ts37xgQeUV4UhdRP-yZi4p?usp=drive_link for past questions, Unavailable for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course General Physics I (PHYS 101), go to this link: https://drive.google.com/drive/folders/1qZd0dZh6MZu23Ll2KSv5F2UNBggJKwCG?usp=drive_link for past questions, Unavailable for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course General Physics II (PHYS 102), go to this link: https://drive.google.com/drive/folders/1IEud1o9oxnxy-fSYYv9-XD3ifnfGsiEx?usp=drive_link for past questions, Unavailable for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course General Chemistry 1 (CHEM 101), go to this link: https://drive.google.com/drive/folders/1S1_cxwWUowfmUhF52OkdvxKiQDugqtO_?usp=drive_link for past questions, Unavailable for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Introductory Statistics (STAT 101), go to this link: https://drive.google.com/drive/folders/18CYn2q7TBIFqb4PSToemjZTJsAfCnzQ7?usp=drive_link for past questions, Unavailable for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course General Mathematics III (MATH 104), go to this link: https://drive.google.com/drive/folders/1D3LAQwrvRV6RSjUi3xBogxzPzuN9QFja?usp=drive_link for past questions, https://app.studysmarter.de/studyset/9479670?ref=ARDC2UwPjSKGUYymd3BeXWDXHOjIj00e for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Configuring Clients Operating Systems (COSC 107), go to this link: https://drive.google.com/drive/folders/1uxNmtVYcMKdeyXsIxtOAX7Ltpe1Cn9zl?usp=drive_link for past questions, Unavailable for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Hardware System Studies I (A+) (COSC 108), go to this link: https://drive.google.com/drive/folders/1w83nlbWTRieuoQ9zN3HIlaTy-9JWWBOz?usp=drive_link for past questions, https://app.studysmarter.de/studyset/9475245?ref=ARDC2UwPjSKGUYymd3BeXWDXHOjIj00e for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Fundamentals of Christian Faith (GEDS 215), go to this link: https://drive.google.com/drive/folders/1Ot1bEVkpONUwPEKynvhPYp-vWKS24L4-?usp=drive_link for past questions, Unavailable for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Introduction to Agriculture (GEDS 221), go to this link:  for past questions, Unavailable for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Communication in French (GEDS 200), go to this link: Unavailable for past questions, https://app.studysmarter.de/studyset/12353885?ref=ARDC2UwPjSKGUYymd3BeXWDXHOjIj00e for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course History and Philosophy of Science (GEDS 222), go to this link: Unavailable for past questions, https://app.studysmarter.de/studyset/12353901?ref=ARDC2UwPjSKGUYymd3BeXWDXHOjIj00e for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Environmental and Sustainable Development (GEDS 260), go to this link: Unavailable for past questions, https://app.studysmarter.de/studyset/10825081?ref=ARDC2UwPjSKGUYymd3BeXWDXHOjIj00e for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Peace and Conflict Resolution (GEDS 270), go to this link: Unavailable for past questions, https://app.studysmarter.de/studyset/12353890?ref=ARDC2UwPjSKGUYymd3BeXWDXHOjIj00e for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Operating System I (COSC 203), go to this link: https://drive.google.com/drive/folders/1I14Evz6Gl722pNMWj-pB3HiT_KonMP_I?usp=drive_link for past questions, https://app.studysmarter.de/studyset/10793341?ref=ARDC2UwPjSKGUYymd3BeXWDXHOjIj00e for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Programming in JAVA (COSC 205), go to this link: https://drive.google.com/drive/folders/1xUpRgjKjbALs7-s8abtfI8nbdn6Q5xbM?usp=drive_link for past questions, Unavailable for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Programming in C/C ++ (COSC 206), go to this link: https://drive.google.com/drive/folders/1H_NhwzGXatJ7Z_XqHPXn0Q-MCSqeEomE?usp=drive_link for past questions, https://app.studysmarter.de/studyset/12353876?ref=ARDC2UwPjSKGUYymd3BeXWDXHOjIj00e for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Numerical Methods and Analysis I (COSC 212), go to this link: Unavailable for past questions, https://app.studysmarter.de/studyset/12353898?ref=ARDC2UwPjSKGUYymd3BeXWDXHOjIj00e for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Programming Techniques with VB.NET (COSC 226), go to this link: https://drive.google.com/drive/folders/1NAQXlFFitJ9eBe5bQoUwqi3AX_jX7imt?usp=drive_link for past questions, https://app.studysmarter.de/studyset/12353873?ref=ARDC2UwPjSKGUYymd3BeXWDXHOjIj00e for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Sets Logics and Algebra (MATH 203), go to this link: https://drive.google.com/drive/folders/1xwL0VHLtw3K2ZE9PICylMgs6qO8-_WqM?usp=drive_link for past questions, Unavailable for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Discrete Mathematics (MATH 206), go to this link: https://drive.google.com/drive/folders/1jKY-ix3iuaOY8E_zSOAmjJ1rPySqKFPh?usp=drive_link for past questions, https://app.studysmarter.de/studyset/12353881?ref=ARDC2UwPjSKGUYymd3BeXWDXHOjIj00e for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Statistical Methods I (STAT 201), go to this link: https://drive.google.com/drive/folders/1iVTnphQwpY45m-YE-Pu7zcjzHSFkkohn?usp=drive_link for past questions, Unavailable for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Statistical Methods II (STAT 202), go to this link: https://drive.google.com/drive/folders/1GpE-10rs1jPqM6nz8C2_f3hlcMfreE9j?usp=drive_link for past questions, https://app.studysmarter.de/studyset/12353883?ref=ARDC2UwPjSKGUYymd3BeXWDXHOjIj00e for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Hardware System Studies II (A+) (COSC 209), go to this link: https://drive.google.com/drive/folders/1VbvQcgDzl3b9dET23_Fipz0eczQ6LyLM?usp=drive_link for past questions, Unavailable for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Fundamental of Computer Security (COSC 222), go to this link: https://drive.google.com/drive/folders/1R33r4nHPxGcQox8LMg_NinysiXvLViia?usp=drive_link for past questions, https://app.studysmarter.de/studyset/13076426?ref=ARDC2UwPjSKGUYymd3BeXWDXHOjIj00e for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Introduction to Family Life Education (GEDS 312), go to this link: Unavailable for past questions, https://app.studysmarter.de/studyset/21162820?ref=ARDC2UwPjSKGUYymd3BeXWDXHOjIj00e for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Religion and Social Ethics (GEDS 317), go to this link: https://drive.google.com/drive/folders/1tLORKy4-7HCQ9Q_bv5bLTKw56Ymr8Kl2?usp=drive_link for past questions, https://app.studysmarter.de/studyset/15560605?ref=ARDC2UwPjSKGUYymd3BeXWDXHOjIj00e for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Leadership Skills (GEDS 280), go to this link: Unavailable for past questions, https://app.studysmarter.de/studyset/15560823?ref=ARDC2UwPjSKGUYymd3BeXWDXHOjIj00e for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Algorithm and Data Structures (COSC 302), go to this link: https://drive.google.com/drive/folders/1BFLR3jK22hws5S7z0saKUn0ig0UtEaHh?usp=drive_link for past questions, https://app.studysmarter.de/studyset/21162812?ref=ARDC2UwPjSKGUYymd3BeXWDXHOjIj00e for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Operating Systems II (COSC 303), go to this link: https://drive.google.com/drive/folders/1sj2mo7RQU7s81Cn-FysVpEXAS9-5LNXM?usp=drive_link for past questions, https://app.studysmarter.de/studyset/15787007?ref=ARDC2UwPjSKGUYymd3BeXWDXHOjIj00e for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Survey of Programming Languages (COSC 306), go to this link: https://drive.google.com/drive/folders/1tarW8UeqjUS3zLgpCNkv7cWVMXj_FNi3?usp=drive_link for past questions, https://app.studysmarter.de/studyset/21162799?ref=ARDC2UwPjSKGUYymd3BeXWDXHOjIj00e for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Introduction to Operations Research (COSC 309), go to this link: https://drive.google.com/drive/folders/1KY6S_p3IUPm1ru9Xc-UIcwnOSZUsSrs1?usp=drive_link for past questions, https://app.studysmarter.de/studyset/16970673?ref=ARDC2UwPjSKGUYymd3BeXWDXHOjIj00e for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Numerical Methods and Analysis II (COSC 312), go to this link: https://drive.google.com/drive/folders/13buVfEOZEDqcFIci9yvn-re1dJZ-nhXu?usp=drive_link for past questions, https://app.studysmarter.de/studyset/21162804?ref=ARDC2UwPjSKGUYymd3BeXWDXHOjIj00e for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Computer Hardware (COSC 317), go to this link: https://drive.google.com/drive/folders/1HLDQcw2_mMoOdYjtrUSJQVnApO8bqw-e?usp=drive_link for past questions, https://app.studysmarter.de/studyset/16779819?ref=ARDC2UwPjSKGUYymd3BeXWDXHOjIj00e for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Research Methodology and Current Topics (COSC 325), go to this link: https://drive.google.com/drive/folders/1C4OhNftCoI2irJeY-qXDWl1KSRiv5LmG?usp=drive_link for past questions, https://app.studysmarter.de/studyset/16970689?ref=ARDC2UwPjSKGUYymd3BeXWDXHOjIj00e for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Information Systems Analysis and Design (ISAAD) (COSC 327), go to this link: https://drive.google.com/drive/folders/1ly2J35ejiM0iiaNgenBlk3b4dC5ftUFd?usp=drive_link for past questions, https://app.studysmarter.de/studyset/15497129?ref=ARDC2UwPjSKGUYymd3BeXWDXHOjIj00e for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Data Communication and Computer Networks (COSC 335), go to this link: https://drive.google.com/drive/folders/1qoetWsOIt-6H7SSx-2VOBCWJC1LdC3_0?usp=drive_link for past questions, https://app.studysmarter.de/studyset/16970697?ref=ARDC2UwPjSKGUYymd3BeXWDXHOjIj00e for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course Linux System Administration (ITGY 307), go to this link: https://drive.google.com/drive/folders/1dCkDh8P1rVRHKXNggkPalBwUXiyItmM6?usp=drive_link for past questions, https://app.studysmarter.de/studyset/15633657?ref=ARDC2UwPjSKGUYymd3BeXWDXHOjIj00e for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course SQL Fundamentals (COSC 305), go to this link: https://drive.google.com/drive/folders/1Z65_REp33hjzlLEhhB2nGSm2Z2eyoC_x?usp=drive_link for past questions, https://app.studysmarter.de/studyset/16963451?ref=ARDC2UwPjSKGUYymd3BeXWDXHOjIj00e for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "docs_links",
+            "content": "To find past questions, slides, flashcards, studysets, and more resources on the course  Androids (COSC 328), go to this link: https://drive.google.com/drive/folders/1Y-Fx4rTsOL3Ie08euqZY7z4XvWztb3Kc?usp=drive_link for past questions, https://app.studysmarter.de/studyset/21162807?ref=ARDC2UwPjSKGUYymd3BeXWDXHOjIj00e for slides, flashcards, studysets, and more."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. Dada Rachael Olufunmilola is the Citizenship Orientation (Chapel Seminar) (GEDS 001/GEDS 002) lecturer. Dr. Dada Rachael Olufunmilola's phone number is +2348033783093. Dr. Dada Rachael Olufunmilola's office is at Registry."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. Onuoha Collins is the Philosophy of Christian Education (GEDS 101) lecturer. Dr. Onuoha Collins's phone number is +2348056356352. Dr. Onuoha Collins's office is at No longer in Babcock."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. ABOLARIN Mobolude is the Use of Library and study skills (GEDS 105) lecturer. Dr. ABOLARIN Mobolude's phone number is +2348062228556. Dr. ABOLARIN Mobolude's office is at BBS."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. UWANNAH Ngozi is the Introduction to General Psychology (GEDS 107) lecturer. Dr. UWANNAH Ngozi's phone number is +2348062452415. Dr. UWANNAH Ngozi's office is at EAH."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. Asekun-Olarinmoye Ifeoluwapo Oyebola is the Health Principles (GEDS 112) lecturer. Dr. Asekun-Olarinmoye Ifeoluwapo Oyebola's phone number is +2348133118372. Dr. Asekun-Olarinmoye Ifeoluwapo Oyebola's office is at SAT."
+        },
+        {
+            "title": "lecturers",
+            "content": "Pastor Oyinloye Israel is the Life and Teachings of Jesus the Messiah (GEDS 126) lecturer. Pastor Oyinloye Israel's phone number is +2349061700437. Pastor Oyinloye Israel's office is at EAH."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. Okata Gift is the Communication in English I (GEDS 131) lecturer. Dr. Okata Gift's phone number is +2348063759800. Dr. Okata Gift's office is at EAH."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. Okata Gift is the Communication in English  II (GEDS 132) lecturer. Dr. Okata Gift's phone number is +2348063759800. Dr. Okata Gift's office is at EAH."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. Akpuh Charles is the Nigerian People in a Global Culture. (GEDS 134) lecturer. Dr. Akpuh Charles's phone number is +2348038842652. Dr. Akpuh Charles's office is at EAH."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. Akande Oyebola is the Introduction to Computer Science and Programming I (COSC 111) lecturer. Dr. Akande Oyebola's phone number is +2347055109124. Dr. Akande Oyebola's office is at NH."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. Akande Oyebola is the Introduction to Computer Science and Programming II (COSC 112) lecturer. Dr. Akande Oyebola's phone number is +2347055109124. Dr. Akande Oyebola's office is at NH."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. Kanu Richmond Uchenna is the General Mathematics I (MATH 101) lecturer. Dr. Kanu Richmond Uchenna's phone number is +2348034229428. Dr. Kanu Richmond Uchenna's office is at SAT - C114."
+        },
+        {
+            "title": "lecturers",
+            "content": "Mr. Bamishile Olabode is the General Mathematics II (MATH 102) lecturer. Mr. Bamishile Olabode's phone number is +2348039382052. Mr. Bamishile Olabode's office is at Old Library (linked to Registry - close to SAT)."
+        },
+        {
+            "title": "lecturers",
+            "content": "Mr. Agbo Kelvin Onyekwere is the General Physics I (PHYS 101) lecturer. Mr. Agbo Kelvin Onyekwere's phone number is +2348069481906. Mr. Agbo Kelvin Onyekwere's office is at SAT -D008."
+        },
+        {
+            "title": "lecturers",
+            "content": "Mr. Agbo Kelvin Onyekwere is the General Physics II (PHYS 102) lecturer. Mr. Agbo Kelvin Onyekwere's phone number is +2348069481906. Mr. Agbo Kelvin Onyekwere's office is at SAT - D008."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. Idika Digbo Iku is the General Chemistry 1 (CHEM 101) lecturer. Dr. Idika Digbo Iku's phone number is +2348023286551. Dr. Idika Digbo Iku's office is at SAT - D006."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. Uka Uchenna is the Introductory Statistics (STAT 101) lecturer. Dr. Uka Uchenna's phone number is +2349030423366. Dr. Uka Uchenna's office is at SAT - D008."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. Uka Uchenna is the General Mathematics III (MATH 104) lecturer. Dr. Uka Uchenna's phone number is +2349030423366. Dr. Uka Uchenna's office is at SAT - D008."
+        },
+        {
+            "title": "lecturers",
+            "content": "Mr. Nathan Ojo is the Configuring Clients Operating Systems (COSC 107) lecturer. Mr. Nathan Ojo's phone number is +2348027194811. Mr. Nathan Ojo's office is at NH - Close to the entrance."
+        },
+        {
+            "title": "lecturers",
+            "content": "Mr. Abideen is the Hardware System Studies I (A+) (COSC 108) lecturer. Mr. Abideen's phone number is +2348066932357. Mr. Abideen's office is at No longer in Babcock."
+        },
+        {
+            "title": "lecturers",
+            "content": "Pastor Oyinloye Israel is the Fundamentals of Christian Faith (GEDS 215) lecturer. Pastor Oyinloye Israel's phone number is +2349061700437. Pastor Oyinloye Israel's office is at EAH."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. Afodu Osagie is the Introduction to Agriculture (GEDS 221) lecturer. Dr. Afodu Osagie's phone number is +2347034616311. Dr. Afodu Osagie's office is at Farm house."
+        },
+        {
+            "title": "lecturers",
+            "content": "Mr. MURITALA SHUAIB Adewale is the Communication in French (GEDS 200) lecturer. Mr. MURITALA SHUAIB Adewale's phone number is +2348050360657. Mr. MURITALA SHUAIB Adewale's office is at EAH -004."
+        },
+        {
+            "title": "lecturers",
+            "content": "Mr. ANIMASHAUN  Rufus is the History and Philosophy of Science (GEDS 222) lecturer. Mr. ANIMASHAUN  Rufus's phone number is +2348030774525. Mr. ANIMASHAUN  Rufus's office is at SAT."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. JEGEDE David Olaoluwa is the Environmental and Sustainable Development (GEDS 260) lecturer. Dr. JEGEDE David Olaoluwa's phone number is +2347032372483. Dr. JEGEDE David Olaoluwa's office is at SAT."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. Eti Chinedu is the Peace and Conflict Resolution (GEDS 270) lecturer. Dr. Eti Chinedu's phone number is +2347063271170. Dr. Eti Chinedu's office is at BBS."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. ADEGBENJO Aderonke is the Operating System I (COSC 203) lecturer. Dr. ADEGBENJO Aderonke's phone number is +2348035859474. Dr. ADEGBENJO Aderonke's office is at NH - Beside school officer."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. Ayankoya Folashade is the Programming in JAVA (COSC 205) lecturer. Dr. Ayankoya Folashade's phone number is +2348033673152. Dr. Ayankoya Folashade's office is at BuCodeL."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. Ayankoya Folashade is the Programming in C/C++ (COSC 206) lecturer. Dr. Ayankoya Folashade's phone number is +2348033673152. Dr. Ayankoya Folashade's office is at BuCodeL."
+        },
+        {
+            "title": "lecturers",
+            "content": "Mr. Amusa  Afolarin (Coach Fola) is the Numerical Methods and Analysis I - NMA 1 (COSC 212) lecturer. Mr. Amusa  Afolarin (Coach Fola)'s phone number is +2347066012650. Mr. Amusa  Afolarin (Coach Fola)'s office is at SAT - A110."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. ADEGBENJO Aderonke is the Programming Techniques with VB.NET (COSC 226) lecturer. Dr. ADEGBENJO Aderonke's phone number is +2348035859474. Dr. ADEGBENJO Aderonke's office is at NH - Beside school officer."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. Agunbiade Samson Ademola is the Sets Logics and Algebra (MATH 203) lecturer. Dr. Agunbiade Samson Ademola's phone number is +2348069715881. Dr. Agunbiade Samson Ademola's office is at SAT - E202."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. Kanu Richmond Uchenna is the Discrete Mathematics (MATH 206) lecturer. Dr. Kanu Richmond Uchenna's phone number is +2348034229428. Dr. Kanu Richmond Uchenna's office is at SAT - C114."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. Ayanlowo Emmanuel Ayanlola is the Statistical Methods I (STAT 201) lecturer. Dr. Ayanlowo Emmanuel Ayanlola's phone number is +2347069302860. Dr. Ayanlowo Emmanuel Ayanlola's office is at SAT - E202."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. Ayanlowo Emmanuel Ayanlola is the Statistical Methods II (STAT 202) lecturer. Dr. Ayanlowo Emmanuel Ayanlola's phone number is +2347069302860. Dr. Ayanlowo Emmanuel Ayanlola's office is at SAT - E202."
+        },
+        {
+            "title": "lecturers",
+            "content": "Mr. Chigoziem Iheanacho is the Hardware System Studies II (A+) (COSC 209) lecturer. Mr. Chigoziem Iheanacho's phone number is +2348067593064. Mr. Chigoziem Iheanacho's office is at No longer in Babcock."
+        },
+        {
+            "title": "lecturers",
+            "content": "Mr. Chigoziem Iheanacho is the Fundamental of Computer Security (COSC 222) lecturer. Mr. Chigoziem Iheanacho's phone number is +2348067593064. Mr. Chigoziem Iheanacho's office is at No longer in Babcock."
+        },
+        {
+            "title": "lecturers",
+            "content": "Pastor Adeoye Ayodele is the Introduction to Family Life Education (GEDS 312) lecturer. Pastor Adeoye Ayodele's phone number is +2348038608585. Pastor Adeoye Ayodele's office is at EAH."
+        },
+        {
+            "title": "lecturers",
+            "content": "Mrs. Ikhane Harriet Osaretin is the Religion and Social Ethics (GEDS 317) lecturer. Mrs. Ikhane Harriet Osaretin's phone number is +2348035916561. Mrs. Ikhane Harriet Osaretin's office is at EAH."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. AYIM Oluchi is the Leadership Skills (GEDS 280) lecturer. Dr. AYIM Oluchi's phone number is +2348067009096. Dr. AYIM Oluchi's office is at Registry."
+        },
+        {
+            "title": "lecturers",
+            "content": "Mr. Idepefo Felix is the Algorithm and Data Structures (COSC 302) lecturer. Mr. Idepefo Felix's phone number is +2348039401024. Mr. Idepefo Felix's office is at BuCodeL."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. AJAYI Oluwabukola is the Operating Systems II (COSC 303) lecturer. Dr. AJAYI Oluwabukola's phone number is +2348038695988. Dr. AJAYI Oluwabukola's office is at BuCodeL."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. Izang Aaron is the Survey of Programming Languages (COSC 306) lecturer. Dr. Izang Aaron's phone number is +2348038692651. Dr. Izang Aaron's office is at SAT - E102 ."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. EBIESUWA Seun is the Introduction to Operations Research - OR (COSC 309) lecturer. Dr. EBIESUWA Seun's phone number is +2348026537534. Dr. EBIESUWA Seun's office is at NH- HOD office."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. EBIESUWA Seun is the Numerical Methods and Analysis II - NMA 2 (COSC 312) lecturer. Dr. EBIESUWA Seun's phone number is +2348026537534. Dr. EBIESUWA Seun's office is at NH- HOD office."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. Amanze Ruth is the Computer Hardware (COSC 317) lecturer. Dr. Amanze Ruth's phone number is +2348156414430. Dr. Amanze Ruth's office is at Old Library (linked to Registry - close to SAT)."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. EBIESUWA Seun is the Research Methodology and Current Topics (COSC 325) lecturer. Dr. EBIESUWA Seun's phone number is +2348026537534. Dr. EBIESUWA Seun's office is at NH."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. ABEL Sam is the Information Systems Analysis and Design (ISAAD) (COSC 327) lecturer. Dr. ABEL Sam's phone number is +2348138959211. Dr. ABEL Sam's office is at NH."
+        },
+        {
+            "title": "lecturers",
+            "content": "Mr. Joseph Adewuyi Oluwaseyi is the Data Communication and Computer Networks (COSC 335) lecturer. Mr. Joseph Adewuyi Oluwaseyi's phone number is +2347039124809. Mr. Joseph Adewuyi Oluwaseyi's office is at BuCodeL."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. Izang Aaron - SIWES Coordinator is the Students Industrial Work Experience (SIWES) (COSC 360) lecturer. Dr. Izang Aaron - SIWES Coordinator's phone number is +2348038692651. Dr. Izang Aaron - SIWES Coordinator's office is at SAT - E102."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. Idepefo Felix Olutokunbo is the Linux System Administration (ITGY 307) lecturer. Dr. Idepefo Felix Olutokunbo's phone number is +2348039401024. Dr. Idepefo Felix Olutokunbo's office is at BuCodeL."
+        },
+        {
+            "title": "lecturers",
+            "content": "Mr. Seun is the SQL Fundamentals (COSC 305) lecturer. Mr. Seun's phone number is +2348038942309. Mr. Seun's office is at NH - Close to the entrance."
+        },
+        {
+            "title": "lecturers",
+            "content": "Mr. Clarkson is the Androids (COSC 328) lecturer. Mr. Clarkson's phone number is +2347035430247. Mr. Clarkson's office is at NH - Close to the entrance."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. Adeoye is the Introduction to Entrepreneurial Skills (GEDS 400) lecturer. Dr. Adeoye's phone number is +2348106209049. Dr. Adeoye's office is at BBS C Block."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. EBIESUWA Seun is the Compiler Construction (COSC 401) lecturer. Dr. EBIESUWA Seun's phone number is +2348026537534. Dr. EBIESUWA Seun's office is at  NH- HOD office."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. Ernest Onuiri and Mr. Oladipo Sunday is the Artificial Intelligence and Applications (AI) (COSC 423) lecturer. Dr. Ernest Onuiri and Mr. Oladipo Sunday's phone number is +2348037281619 and +2347068479772 respectively. Dr. Ernest Onuiri and Mr. Oladipo Sunday's office is at NH."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. IZANG Aaron is the  Database System Design Implementation and Management (COSC 333) lecturer. Dr. IZANG Aaron's phone number is +2348038692651. Dr. IZANG Aaron's office is at SAT - E102 ."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. Agbaje is the Computer Organization and Architecture (COSC 425) lecturer. Dr. Agbaje's phone number is +2348052085154. Dr. Agbaje's office is at NH."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. Blaize Ohwo is the Web Design and Development (ITGY 401) lecturer. Dr. Blaize Ohwo's phone number is +2347038552204. Dr. Blaize Ohwo's office is at NH."
+        },
+        {
+            "title": "lecturers",
+            "content": "Prof. Eze Monday is the Principles of Software Engineering (SENG 400) lecturer. Prof. Eze Monday's phone number is +2348028669172. Prof. Eze Monday's office is at BucodeL."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. Adebanjo is the Cyber Law-Crime Forensics and Auditing (ITGY 417) lecturer. Dr. Adebanjo's phone number is +2348026906428. Dr. Adebanjo's office is at BucodeL."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. Osuntokun is the Reverse Engineering and Malware Analysis (ITGY 400) lecturer. Dr. Osuntokun's phone number is +2348128069506. Dr. Osuntokun's office is at BucodeL."
+        },
+        {
+            "title": "lecturers",
+            "content": "Dr. Ayankoya Folashade is the Machine Learning with Python (COSC 427) lecturer. Dr. Ayankoya Folashade's phone number is +2348033673152. Dr. Ayankoya Folashade's office is at BuCodeL."
+        },
+        {
+            "title": "lecturers",
+            "content": "Mr. Seun is the Database Admin Workshop (COSC 409) lecturer. Mr. Seun's phone number is +2348038942309. Mr. Seun's office is at NH - Close to the entrance."
+        },
+        {
+            "title": "general",
+            "content": "Question: I need the email of the siwes coordinator Answer: The email of Dr. Izang Aaron the siwes coordinator: izanga@babcock.edu.ng"
+        },
+        {
+            "title": "general",
+            "content": "Question: Am I supposed to add diagrams in my logbook? Answer: Yes. Adding diagrams to your logbook is compulsory. It improves the quality of your work and ensures the completeness of your SIWES experience."
+        },
+        {
+            "title": "general",
+            "content": "Question: Can I submit my SCAF form via email? Answer: Submitting your SCAF form via email is not advisable. Please go to the ITF office closest to your workplace and submit it there."
+        },
+        {
+            "title": "general",
+            "content": "Question: pre-requisite for java cosc 205? Answer: The pre-requisite for COSC 205 Programming in JAVA is COSC 111 Introduction to Computer Science and Programming I."
+        },
+        {
+            "title": "general",
+            "content": "Question: pre-requisite for VB.NET cosc 226? Answer: The pre-requisite for COSC 226 Programming Techniques with VB.NET is COSC 112 Introduction to Computer Science and Programming II."
+        },
+        {
+            "title": "general",
+            "content": "Question: pre-requisite for LINUX ITGY 307? Answer: The pre-requisite for ITGY 307 Linux System Administration is COSC 203 Operating System I."
+        },
+        {
+            "title": "general",
+            "content": "Question: pre-requisite for COSC Answer: The CS course you're enquiring about has no prerequisite that I know of."
+        },
+        {
+            "title": "general",
+            "content": "Question: pre-requisite for GEDs/GED Answer: The GED course you're enquiring about has no prerequisite that I know of."
+        },
+        {
+            "title": "general",
+            "content": "Question: pre-requisite for MATH Answer: The Math course you're enquiring about has no prerequisite that I know of."
+        },
+        {
+            "title": "general",
+            "content": "Question: pre-requisite for STAT statistics Answer: The STAT course you're enquiring about has no prerequisite that I know of."
+        },
+        {
+            "title": "general",
+            "content": "Question: Where can I find coach Fola? Answer: Coach Fola's office is at SAT, A110. You can also check F204 at SAT and NH."
+        },
+        {
+            "title": "general",
+            "content": "Question: SIWES coordinator's phone number Answer: Dr. Izang (the SIWES coordinator) phone number: 08038692651"
+        },
+        {
+            "title": "general",
+            "content": "Question: What's the minimum number of weeks for SIWES? Answer: The minimum number of weeks for SIWES is 20 weeks."
+        },
+        {
+            "title": "general",
+            "content": "Question: How do I contact my siwes inspection inspector or supervisor?  Answer: To contact your SIWES inspection supervisor, log in to your Student SIWES portal and scroll down to find the contact details of your SIWES inspection supervisor.  "
+        },
+        {
+            "title": "general",
+            "content": "Question: Who is the general SIWES coordinator of Babcock? Answer: Dr. Seun Ebiesuwa is the general SIWES coordinator of Babcock University."
+        },
+        {
+            "title": "general",
+            "content": "Question: I'm sick so I'm going to be absent from class today, can't come to class. Answer: Oh, I'm sorry to hear that. Kindly inform Tekena (+2348077141863). He's the class exco in charge of keeping records of absenteeism. Please do not call him. Just send a message introducing yourself, stating your reason for absenteeism, and don't forget to attach evidence i.e. BUTH receipt. Take care :)"
+        },
+        {
+            "title": "general",
+            "content": "Question: I'm not in school at the moment so I can't make it to class who do i tell. Answer: Oh, okay buddy. Kindly inform Tekena (+2348077141863). He's the class exco in charge of keeping records of absenteeism. Please do not call him. Just send a message introducing yourself, stating your reason for absenteeism, and don't forget to attach evidence."
+        },
+        {
+            "title": "general",
+            "content": "Question: Who's collecting course form? Answer: Samuel Adelakun (or Ayo Boy) is the class exco in charge of collecting course forms. You can contact him: His contact: +1 (925) 819-4794."
+        },
+        {
+            "title": "general",
+            "content": "Question: Who can I submit my course form to? Answer: Please kindly submit your course form to Ayo Adelakun, the class exco in charge of collecting course forms. His contact: +1 (925) 819-4794."
+        },
+        {
+            "title": "general",
+            "content": "Question: Who can I collect my course form from? Answer: Kindly contact Samuel Adelakun (Ayo Boy). He is the class exco currently in the custody of all submitted course forms. His contact: +1 (925) 819-4794."
+        },
+        {
+            "title": "general",
+            "content": "Question: My name is not on the grouping list. Answer: Please contact Ifeatu (+2347031181637). Ifeatu is the class exco in charge of the class groupings."
+        },
+        {
+            "title": "general",
+            "content": "Question: My name is not on the class list. Answer: Please contact Ifeatu (+2347031181637). Ifeatu is the class exco in charge of updating the class list."
+        },
+        {
+            "title": "general",
+            "content": "Question: I need an extra explanation on a topic study smarter links Answer: The class study group has provided materials, slides, and notes on the topic in the Study Smarter Study set. Click on the link to access these resources: https://docs.google.com/document/d/15a8ciAAxry-DUUMksMEQZI2doMdiYs-73a6iUQi_4ZE/edit?usp=sharing"
+        },
+        {
+            "title": "general",
+            "content": "Question: How do I contact the senator of CS? Answer: Jessica Adiele, the current senator of CS, phone number: +2348121735435."
+        },
+        {
+            "title": "general",
+            "content": "Question: How do I contact the assistant other course rep Answer: Soji John(SJ), the assistant course rep of CS, phone number: +2347011158958."
+        },
+        {
+            "title": "general",
+            "content": "Question: Who is Nsikak? Answer: Nsikak Ebong-Abasi is a class exco. You can contact him: +2348025839156."
+        },
+        {
+            "title": "general",
+            "content": "Question: I need another course rep's number except apart from besides Anji Answer: We have two course reps in Group A: Anji (08145170886) and Soji (09152617900). We have two course reps in group B: Michael (08071133166), Daniel (08100792698), and Christabel (09076730748)"
+        },
+        {
+            "title": "general",
+            "content": "Question: Who is Anji/Anjola/Anjie Answer: Anjolaoluwa Ajayi (Anji) is the general course rep of the class. You can contact her here: 07057657787"
+        },
+        {
+            "title": "general",
+            "content": "Question: When can I start SIWES Answer: SIWES is supposed to be for a minimum of 20 weeks (January to June)."
+        },
+        {
+            "title": "general",
+            "content": "Question: When does next semester begin? Answer: 400 Level 2nd Semester will begin January 4th, 2025 (tentatively) and the first one month will be online."
+        },
+        {
+            "title": "general",
+            "content": "Question: I'm a transfer student, I need to join the class groupchat. Answer: Oh, welcome to CS department. Kindly contact the senator Jessica Adiele (+2348121735435) who'll provide you with everything you need to settle into the department well."
+        },
+        {
+            "title": "general",
+            "content": "Question: I'm an extra year student, what should I do? Answer: Please contact the senator of the department, jessica Adiele (+2348121735435) who'll guide you on everything you need."
+        },
+        {
+            "title": "general",
+            "content": "Question: Please the group chat link Answer: General CS group chat link: https://chat.whatsapp.com/LJ9emOwoQDZ7Rz7y8XLHUb , Group A groupchat link: https://chat.whatsapp.com/HNNlik4fX2DH2BYagdfjMN, join the community that contains all CS groupchats: https://chat.whatsapp.com/LEztLtudEMwDf8GBXiwN15"
+        },
+        {
+            "title": "general",
+            "content": "Question: Who's the course rep of CS Computer Science group A? Answer: Anjolaoluwa Ajayi (Anji) and Soji John (SJ) are the course reps of Computer Science (CS) group A."
+        },
+        {
+            "title": "general",
+            "content": "Question: Where's the HOD's office? Answer: The HOD's office is in NH, The first office the right on the top floor."
+        },
+        {
+            "title": "general",
+            "content": "Question: Where's the school officer's office? Answer: Dr. Akalawu Alexander A, the school officer's office is at NH, right on the top floor."
+        },
+        {
+            "title": "general",
+            "content": "Question: The school officer's phone number Answer: Dr. Akalawu Alexander A, the school officer's phone number: +2348035064606."
+        },
+        {
+            "title": "general",
+            "content": "Question: I no fit come class o how far Answer: Oh, I'm sorry to hear that. Kindly inform Tekena (+2348077141863). He's the class exco in charge of keeping records of absenteeism. Please do not call him. Just send a message introducing yourself, stating your reason for absenteeism, and don't forget to attach evidence i.e. BUTH receipt. Take care :)"
+        },
+        {
+            "title": "general",
+            "content": "Question: Where's Anji wey she no Dey available? Answer: No vex boss, she dey fight other battles."
+        },
+        {
+            "title": "general",
+            "content": "Question: Why's Anji not available? Answer: Don't be angry, friend. She's busy dealing with other challenges at the moment."
+        },
+        {
+            "title": "general",
+            "content": "Question: Where is Anji? Answer: I can't say. But you can contact Anji here: 08145170886."
+        },
+        {
+            "title": "general",
+            "content": "Question: When is the official end for IT SIWES Answer: SIWES officially ends June 28th, 2024."
+        },
+        {
+            "title": "general",
+            "content": "Question: Can I end siwes before June 28th? Answer: It is advisable to end your SIWES internship on June 28th, 2024 in order not to miss the main inspection."
+        },
+        {
+            "title": "general",
+            "content": "Question: How long is SIWES supposed to be? Answer: SIWES is meant to span for 20 weeks or more."
+        },
+        {
+            "title": "general",
+            "content": "Question: Who's Ayo? Answer: There are two Ayo's I know of. They are both excos of the class. Samuel Adelakun (mostly known as Ayo boy) is the exco in charge of course forms. Ayomikun Adeosun (or Ayo girl as most people know her) is the exco in charge of timetables."
+        },
+        {
+            "title": "general",
+            "content": "Question: How can I contact Anji Anjola the course rep? Answer: Anjolaoluwa Ajayi, the main course rep of CS, phone number: 07057657787"
+        },
+        {
+            "title": "general",
+            "content": "Question: I need the bursary bursar phone number Answer: Sure! Here are the phone numbers of various people working in the bursary: Mr. Bright (08106874756), Mr. Aaron (08066828510), Mr. Mayowa (07034638444)"
+        },
+        {
+            "title": "general",
+            "content": "Question: I need the registrar registry phone number Answer: Sure! Registrar's phone number: 08037141477, Deputy Registrar's phone number: 09070763310."
+        },
+        {
+            "title": "general",
+            "content": "Question: I can't find GEDS 001 citizenship orientation Answer: GEDS 001 Citizenship Orientation can be found in the special selections section under General Study Division."
+        },
+        {
+            "title": "general",
+            "content": "Question: I need the course advisor's phone number how can I contact Answer: We have two course advisors. Prof. Eze Monday (08028669172) and Mr. Oladipo (07068479772)"
+        },
+        {
+            "title": "general",
+            "content": "Question: What do you know? Answer: My knowledge base comprises of lecturer's details, answers to class related FAQs, and links to documents, past questions, and studysets."
+        },
+        {
+            "title": "general",
+            "content": "Question: Study smarter study set links vaia Answer: This doc contains all the Study Smarter Study set links: https://docs.google.com/document/d/15a8ciAAxry-DUUMksMEQZI2doMdiYs-73a6iUQi_4ZE/edit?usp=sharing"
+        },
+        {
+            "title": "general",
+            "content": "Question: What assignments do we have? Answer: This info tracker spreadsheet contains the info you need:  https://docs.google.com/spreadsheets/d/1it7qV4-2Jp9MicLW_G52LlRww0jB4gVVZowuMAs4Q9Y/edit?usp=sharing"
+        },
+        {
+            "title": "general",
+            "content": "Question: When is the assignment due? Answer: This info tracker spreadsheet contains the info you need:  https://docs.google.com/spreadsheets/d/1it7qV4-2Jp9MicLW_G52LlRww0jB4gVVZowuMAs4Q9Y/edit?usp=sharing"
+        },
+        {
+            "title": "general",
+            "content": "Question: Who are we submitting the assignment to? Answer: We usually submit our assignments to Emeka Ifeanyi who is the class exco in charge of assignment collection. You can contact him here (09020233535). But please, kindly refer to the info tracker sheet to confirm:  https://docs.google.com/spreadsheets/d/1it7qV4-2Jp9MicLW_G52LlRww0jB4gVVZowuMAs4Q9Y/edit?usp=sharing"
+        },
+        {
+            "title": "general",
+            "content": "Question: what assignment is due tomorrow? Answer: The assignment deadline is specified in the info tracker sheet:  https://docs.google.com/spreadsheets/d/1it7qV4-2Jp9MicLW_G52LlRww0jB4gVVZowuMAs4Q9Y/edit?usp=sharing"
+        },
+        {
+            "title": "general",
+            "content": "Question: How many assignments do we have? Answer: The outstanding assignments are specified in the info tracker spreadsheet:  https://docs.google.com/spreadsheets/d/1it7qV4-2Jp9MicLW_G52LlRww0jB4gVVZowuMAs4Q9Y/edit?usp=sharing"
+        },
+        {
+            "title": "general",
+            "content": "Question: Did Dr. Mr. lecturer give us any assignment? Answer: Please find all information related to assignments in the info tracker spreadsheet:  https://docs.google.com/spreadsheets/d/1it7qV4-2Jp9MicLW_G52LlRww0jB4gVVZowuMAs4Q9Y/edit?usp=sharing"
+        },
+        {
+            "title": "general",
+            "content": "Question: how to register on UMIS Answer: No problem, this doc will be of great help in registering on umis: https://drive.google.com/file/d/1jbxufCbeN0uwu1KWNN82dbRSDOCqKoqF/view?usp=drive_link"
+        },
+        {
+            "title": "general",
+            "content": "Question: I need help completing my registration Answer: Sure! This doc should guide you in completing your UMIS registration: https://drive.google.com/file/d/1jbxufCbeN0uwu1KWNN82dbRSDOCqKoqF/view?usp=drive_link"
+        },
+        {
+            "title": "general",
+            "content": "Question: What courses are we to register for the semester? Answer: Please find the courses for each semester here: https://docs.google.com/document/d/1ZTYwhuSrGQIfu1qmhXgmtwj0_we9IC43/edit?usp=drive_link&ouid=114050293169018931486&rtpof=true&sd=true"
+        },
+        {
+            "title": "general",
+            "content": "Question: course list for the semester? Answer: Sure, you'll find the course list for each semester here: https://docs.google.com/document/d/1ZTYwhuSrGQIfu1qmhXgmtwj0_we9IC43/edit?usp=drive_link&ouid=114050293169018931486&rtpof=true&sd=true"
+        },
+        {
+            "title": "general",
+            "content": "Question: I need a lecturer's phone number Answer: No biggy! You may find the phone number you need here: https://drive.google.com/file/d/1jF_SD1uSxQyARpL_YRi4bwLNSP9LEM44/view?usp=drive_link"
+        },
+        {
+            "title": "general",
+            "content": "Question: I prefer the other registration guide Answer: Sure: This doc will be of greta help for your umis registration: https://drive.google.com/file/d/1Yz5gOCzVCJ614c_BvDCgA44LhQn_sMrB/view?usp=drive_link"
+        },
+        {
+            "title": "general",
+            "content": "Question: I want to register for the semester on umis Answer: This doc will guide you on on your umis registration: https://drive.google.com/file/d/1Yz5gOCzVCJ614c_BvDCgA44LhQn_sMrB/view?usp=drive_link"
+        },
+        {
+            "title": "general",
+            "content": "Question: the SIWES report template Answer: Of course, this is the SIWES report template: https://docs.google.com/document/d/1FyuWM8usfbc-vIcF8cPavPAFseWr3mav/edit?usp=drive_link&ouid=114050293169018931486&rtpof=true&sd=true"
+        },
+        {
+            "title": "general",
+            "content": "Question: SIWES C form for inspection Answer: Sure thing, this is the SIWES C form: https://docs.google.com/document/d/1BccARj5lQusBNyh11nxJIlWfrh4skFp7/edit?usp=drive_link&ouid=114050293169018931486&rtpof=true&sd=true"
+        },
+        {
+            "title": "general",
+            "content": "Question: SIWES orientation summary document Answer: Of course, here's the siwes orientation summary: https://docs.google.com/document/d/1NlM3G60hlWK4gqtbic4Qy8eY4pmbTPz6/edit?usp=drive_link&ouid=114050293169018931486&rtpof=true&sd=true"
+        },
+        {
+            "title": "general",
+            "content": "Question: CS Group A groupchat gc link where non admins can send messages Answer: CS Group A group chat link coming right up! https://chat.whatsapp.com/HNNlik4fX2DH2BYagdfjMN"
+        },
+        {
+            "title": "general",
+            "content": "Question: The groupchat gc link for COSC GEDS Answer: This is the CS 300 Lvl community link. It contains all class groupchats: https://chat.whatsapp.com/LEztLtudEMwDf8GBXiwN15"
+        },
+        {
+            "title": "general",
+            "content": "Question: The main general official CS gc group chat link Answer: Sure! Here's the official group chat link for CS: https://chat.whatsapp.com/LJ9emOwoQDZ7Rz7y8XLHUb"
+        },
+        {
+            "title": "general",
+            "content": "Question: Do we have an assignment? Answer: The info tracker sheet contains the info you need: https://docs.google.com/spreadsheets/d/106OY0latkDRcpDF-_x9la0zu0YIgOSC0phNRndWs2_g/edit?usp=sharing"
+        },
+        {
+            "title": "general",
+            "content": "Question: What's our course advisor number? Answer: We have two course advisors. Prof. Eze Monday (08028669172) and Mr. Oladipo Sunday (07068479772)"
+        },
+        {
+            "title": "general",
+            "content": "Question: Is there chapel seminar today? Answer: We usually have chapel seminar on Wednesdays (9 -10 a.m.). But we sometimes don't if there's a public holiday or if said otherwise."
+        },
+        {
+            "title": "general",
+            "content": "Question: When's our SIWES ending? Answer: SIWES officially ends June 28th."
+        },
+        {
+            "title": "general",
+            "content": "Question: What do we need for SIWES inspection? Answer: You need three documents: Your log book, the SIWES C form filled by you and your employer, and your course form for 300 Lvl 2nd Semester."
+        },
+        {
+            "title": "general",
+            "content": "Question: How many SIWES inspections do we have? Answer: Depending on your supervisor, you may have 1-2 inspections in total."
+        },
+        {
+            "title": "general",
+            "content": "Question: When's resumption? Answer: 400 Lvl 2nd semester tentatively begins January 4th, 2025."
+        },
+        {
+            "title": "general",
+            "content": "Question: Is there Chapel seminar? Answer: We usually have chapel seminar on Wednesdays (9 -10 a.m.). But we sometimes don't."
+        },
+        {
+            "title": "general",
+            "content": "Question: Have you submitted the assignments? Answer: The assignment will be submitted once the deadline has passed. Please find the deadline for the assignment in the info tracker sheet: https://docs.google.com/spreadsheets/d/106OY0latkDRcpDF-_x9la0zu0YIgOSC0phNRndWs2_g/edit?usp=sharing"
+        },
+        {
+            "title": "general",
+            "content": "Question: When are we submitting the assignment? Answer: Please submit the assignment before the deadline. Kindly find the deadline for the assignment in the info tracker sheet: https://docs.google.com/spreadsheets/d/106OY0latkDRcpDF-_x9la0zu0YIgOSC0phNRndWs2_g/edit?usp=sharing"
+        },
+        {
+            "title": "general",
+            "content": "Question: I need the HOD's number Answer: Sure! Dr. Ebiesuwa Seun, the HOD of CS department's phone number: +2348026537534"
+        },
+        {
+            "title": "general",
+            "content": "Question: I need the dean's phone number Answer: Sure! Prof. Idowu Sunday, the Dean of BUCC's phone number: +2347038022071"
+        },
+        {
+            "title": "general",
+            "content": "Question: I need HOD number Answer: Sure! Dr. Seun Ebiesuwa, the HOD of CS department's phone number: +2348026537534"
+        },
+        {
+            "title": "general",
+            "content": "Question: Where's the Bursary office Answer: The Bursary office is the office beside NH Building."
+        },
+        {
+            "title": "general",
+            "content": "Question: Who's Anji/Anjola? Answer: Anjolaoluwa Ajayi (Anji) is the general course rep of the class. You can contact her here: 08145170886"
+        },
+        {
+            "title": "general",
+            "content": "Question: Who's Preye Afore? Answer: Preye Afore is an exco of the class. You can contact him here: 08119207222"
+        },
+        {
+            "title": "general",
+            "content": "Question: Who are the class excos? Answer: The class excos are Emeka (09020233535), Soji (07011158958), Jessica (08121735435), Preye (08119207222), Ayo Adeosun (08170080757), Ayo Adelakun (+1 (925) 819-4794), Anji (08145170886), Tekena (07057657787), Ifeatu (07031181637), Nsikak (08025839156), and Beloved (09067562194)."
+        },
+        {
+            "title": "general",
+            "content": "Question: can I have exco committee list? Answer: The class excos are Emeka (09020233535), Soji (07011158958), Jessica (08121735435), Preye (08119207222), Ayo Adeosun (08170080757), Ayo Adelakun (+1 (925) 819-4794), Anji (08145170886), Tekena (07057657787), Ifeatu (07031181637), Nsikak (08025839156), and Beloved (09067562194)."
+        },
+        {
+            "title": "general",
+            "content": "Question: when is course form submission due? Answer: You're to submit your course form to Ayo Adelakun (+1 (925) 819-4794) before mid semester week. If your course form is yet to be approved, you may submit it before exam week."
+        },
+        {
+            "title": "general",
+            "content": "Question: where does the course advisor stay office Answer: Prof. Eze Monday (08028669172)  and Mr. Oladipo Sunday (07068479772), the course advisors's offices are at BuCodeL and NH respectively. You may call any of them to locate their specific offices."
+        },
+        {
+            "title": "general",
+            "content": "Question: Who's Jessica? Answer: Jessica is the senator of the class. You can contact her here: 08121735435"
+        },
+        {
+            "title": "general",
+            "content": "Question: Who's Beloved? Answer: Beloved Adisa is an exco of the class. He's the assigned sportsman. You can contact him here: 09067562194"
+        },
+        {
+            "title": "general",
+            "content": "Question: Who's Tekena? Answer: Tekena is an exco of the class. He's in charge of absenteeism. You can contact him here: 07057657787"
+        },
+        {
+            "title": "general",
+            "content": "Question: Who's Emeka? Answer: Emeka Ifeanyi is an exco of the class. He's in charge of assignment collection/ distribution. You can contact him here: 09020233535"
+        },
+        {
+            "title": "general",
+            "content": "Question: Who's Soji SJ? Answer: Soji is the course rep of Group A (B). You can contact him here: 07011158958"
+        },
+        {
+            "title": "general",
+            "content": "Question: Who's Ifeatu? Answer: Ifeatu is an exco of the class. He's in charge of class list and grouping. You can contact him here: 07031181637"
+        },
+        {
+            "title": "general",
+            "content": "Question: I want to add my name to the attendance Answer: Please contact Ifeatu to add your name to the attendance. Ifeatu is the exco in charge of attendance. You can contact him here: 07031181637"
+        },
+        {
+            "title": "general",
+            "content": "Question: Who's Ayo? Answer: There are two Ayo's I know of. They are both excos of the class. Samuel Adelakun (mostly known as Ayo boy) is the exco in charge of course forms. Ayomikun Adeosun (or Ayo girl as most people know her) is the exco in charge of timetables."
+        },
+        {
+            "title": "general",
+            "content": "Question: When do exams start? Answer: The exam commencement date is reflected in the Quiz-Midsemester-Exam sheet: https://docs.google.com/spreadsheets/d/1it7qV4-2Jp9MicLW_G52LlRww0jB4gVVZowuMAs4Q9Y/edit?gid=0#gid=0"
+        },
+        {
+            "title": "general",
+            "content": "Question: When is exam starting? Answer: The exam commencement date is reflected in the Quiz-Midsemester-Exam sheet: https://docs.google.com/spreadsheets/d/1it7qV4-2Jp9MicLW_G52LlRww0jB4gVVZowuMAs4Q9Y/edit?gid=0#gid=0"
+        },
+        {
+            "title": "general",
+            "content": "Question: What exam are/ do we having/ have today? Answer: The exam(s) we have today are reflected in the Quiz-Midsemester-Exam sheet: https://docs.google.com/spreadsheets/d/1it7qV4-2Jp9MicLW_G52LlRww0jB4gVVZowuMAs4Q9Y/edit?gid=0#gid=0"
+        },
+        {
+            "title": "general",
+            "content": "Question: When do/ are we resume/ resuming? Answer: 400 Lvl 2nd semester tentatively begins on January 4th."
+        },
+        {
+            "title": "general",
+            "content": "Question: Who's siwes coordinator? Answer: Dr. Aaron Izang is the SIWES coordinator."
+        },
+        {
+            "title": "general",
+            "content": "Question: I need the registry's phone number Answer: Sure! Registrar's phone number: 08037141477, the Deputy Registrar's phone number: 09070763310."
+        },
+        {
+            "title": "general",
+            "content": "Question: Where's the registry? Answer: The registry is inside the Alumni building."
+        },
+        {
+            "title": "general",
+            "content": "Question: What are you? what's your name Answer: Uurggh, you're really going to make me say it again... I'm Anjibot, an AI course rep bot designed to help you with anything you need! \ud83d\ude04"
+        },
+        {
+            "title": "general",
+            "content": "Question: Who made created developed you? Answer: Anji created me. But I'm what I am today thanks to all her kind friends who tested me and helped me improve. I'm here for you now! \ud83d\ude0a"
+        },
+        {
+            "title": "general",
+            "content": "Question: I need approval for my course form Answer: Okay. Request approval from any of the course advisors. You can reach them here: Prof. Eze Monday (08028669172), Mr. Oladipo (07068479772)"
+        },
+        {
+            "title": "general",
+            "content": "Question: Can I get a list of lvl level courses Answer: Sure! Find the courses for each level/ semester here: https://docs.google.com/document/d/1zVgU2LL65ozYUfqjQKiFPUEx6mQS9c2-/edit?usp=drive_link&ouid=114050293169018931486&rtpof=true&sd=true"
+        },
+        {
+            "title": "general",
+            "content": "Question: list of all the lecturers in lvl level Answer: You may find what you need in this list of lecturers: https://drive.google.com/file/d/1jF_SD1uSxQyARpL_YRi4bwLNSP9LEM44/view?usp=drive_link "
+        },
+        {
+            "title": "general",
+            "content": "Question: what questions can I ask you? Answer: Hm, class related questions, I guess? But I can try to have a casual conversation with you."
+        },
+        {
+            "title": "general",
+            "content": "Question: Is the lecturer in class Answer: There's only one way to find out - ask on the class groupchat or any of the class excos :)"
+        },
+        {
+            "title": "general",
+            "content": "Question: how much price cost is textbook Answer: Sinzu!!! You can find the prices of the textbooks needed for the semester here: https://docs.google.com/spreadsheets/d/1it7qV4-2Jp9MicLW_G52LlRww0jB4gVVZowuMAs4Q9Y/edit?usp=sharing"
+        },
+        {
+            "title": "general",
+            "content": "Question: please i didn't see find collect my mid-semester quiz assignment script Answer: Oh dear, missing script? That must be tough. Please contact Anji directly for this issue."
+        },
+        {
+            "title": "general",
+            "content": "Question: what's the page number of the assignment Answer: Scholar!!! You'll find the details of all assignments here:  https://docs.google.com/spreadsheets/d/1it7qV4-2Jp9MicLW_G52LlRww0jB4gVVZowuMAs4Q9Y/edit?usp=sharing"
+        },
+        {
+            "title": "general",
+            "content": "Question: do we have quiz Answer: Upcoming quizzes are recorded in the 'info tracker' sheet: https://docs.google.com/spreadsheets/d/106OY0latkDRcpDF-_x9la0zu0YIgOSC0phNRndWs2_g/edit?usp=sharing"
+        },
+        {
+            "title": "general",
+            "content": "Question: can you send the course list Answer: Sure! The course list for each semester/ level: https://docs.google.com/document/d/1ZTYwhuSrGQIfu1qmhXgmtwj0_we9IC43/edit?usp=drive_link&ouid=114050293169018931486&rtpof=true&sd=true"
+        },
+        {
+            "title": "general",
+            "content": "Question: the class excos and what their jobs duties are Answer: The class excos are Emeka (09020233535), Soji (07011158958), Jessica (08121735435), Preye (08119207222), Ayo Adeosun (08170080757), Ayo Adelakun (+1 (925) 819-4794), Anji (08145170886), Tekena (07057657787), Ifeatu (07031181637), Nsikak (08025839156), and Beloved (09067562194). Some excos have duties that are not for public knowledge but ask me about any of the excos and I'll tell you their duties if I can."
+        },
+        {
+            "title": "general",
+            "content": "Question: I want to speak to meet anji Answer: Damn, you don't want meeeeee \ud83d\ude22. No worries, it's fine, you can contact Anji here: 08145170886."
+        },
+        {
+            "title": "general",
+            "content": "Question: who is anji anjola to you? Answer: Anjola is my mummy, but she thinks of me as a tool for helping the class. That's life for you, mate."
+        },
+        {
+            "title": "general",
+            "content": "Question: what questions can i ask you Answer: Questions about lecturers info, class, assignment, quizzes, class related issues, anything you'd ask your course rep you know :)"
+        },
+        {
+            "title": "general",
+            "content": "Question: where can i submit my assignments Answer: Please find information about assignment submission process in the assignment log sheet: https://docs.google.com/spreadsheets/d/106OY0latkDRcpDF-_x9la0zu0YIgOSC0phNRndWs2_g/edit?usp=sharing"
+        },
+        {
+            "title": "general",
+            "content": "Question: i didn\u2019t mark sign attendance Answer: If you were in class and didn't get the chance to sign the attendance then you should contact Anji immediately before she crosses it out."
+        },
+        {
+            "title": "general",
+            "content": "Question: how do i know the timetable Answer: The timetable is the profile picture of the class groupchat. To know the current state of the class timetable, kindly check the dynamic timetable here: https://docs.google.com/spreadsheets/d/106OY0latkDRcpDF-_x9la0zu0YIgOSC0phNRndWs2_g/edit?usp=sharing "
+        },
+        {
+            "title": "general",
+            "content": "Question: where can i get textbooks Answer: You can get textbooks in the bookshop either at SAT or at Babcock Superstore."
+        },
+        {
+            "title": "general",
+            "content": "Question: the course advisor hasn't approved my course form Answer: I'm sorry to hear that your course form hasn't been approved. Please remind any of the course advisors: Prof. Eze Monday (08028669172) and Mr. Oladipo Sunday (07068479772) to approve your course form."
+        },
+        {
+            "title": "general",
+            "content": "Question: i need to meet anjola when is she free Answer: Idk if Anji is free but you can contact her here: 08145170886"
+        },
+        {
+            "title": "general",
+            "content": "Question: im having issues with getting approval for my course form Answer: I'm sorry to hear that your course form hasn't been approved. Please remind any of the course advisors: Prof. Eze Monday (08028669172) and Mr. Oladipo (07068479772) to approve your course form."
+        },
+        {
+            "title": "general",
+            "content": "Question: what am i to include in my siwes report Answer: Here's a template that can guide you in creating your siwes report: https://docs.google.com/document/d/1FyuWM8usfbc-vIcF8cPavPAFseWr3mav/edit?usp=drive_link&ouid=114050293169018931486&rtpof=true&sd=true"
+        },
+        {
+            "title": "general",
+            "content": "Question: I need CS 300 lvl course rep number Answer: Tife is the course rep of CS 300 lvl. You can contact her here: 09066120768."
+        },
+        {
+            "title": "general",
+            "content": "Question: I need CS 200 lvl course rep number Answer: Favor is the course rep of CS 200 Level. You can contact her here: 08055808058."
+        },
+        {
+            "title": "general",
+            "content": "Question: full meaning of SIWES Answer: The full meaning of SIWES: Student Industrial Work Experience Scheme"
+        },
+        {
+            "title": "general",
+            "content": "Question: full meaning of bucc Answer: The full meaning of BUCC: Babcock University Computer Club."
+        },
+        {
+            "title": "general",
+            "content": "Question: What is supposed to be the class code on the siwes report? Answer: You can find your class code for your SIWES report on your log book i.e. CS/2023/001."
+        },
+        {
+            "title": "general",
+            "content": "Question: How long many pages should the siwes report be? Answer: The siwes report can be of any length as long as all the required info is provided."
+        },
+        {
+            "title": "general",
+            "content": "Question: When does 400 lvl level start? Answer: 400 level 1st semester began September 3rd, 2024."
+        },
+        {
+            "title": "general",
+            "content": "Question: Can I change my hall after registration after I've registered? Answer: If you've submitted your course form, you'll need to reach out to the student affairs to change your hall. You can call someone from the bursary for more guidance: +234 803 385 5819"
+        },
+        {
+            "title": "general",
+            "content": "Question: When do are classes start starting Answer: Classes for 400 lvl first semester commenced on September 9th, 2024. Make sure to come early so you don't miss out on early bird free marks and sweet knowledge."
+        },
+        {
+            "title": "general",
+            "content": "Question: Please do you have the HOD's secretary's phone number? Answer: Sure, you can contact Mrs. Modupe, the HOD Secretary here: +2348137671069."
+        }
+    ]
+}
